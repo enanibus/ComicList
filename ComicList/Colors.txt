@@ -1,0 +1,6 @@
+Bar : #2e3134
+Background : #f2f2f3
+DetailBackground : #ecedee
+DarkText: #282828
+LightText: #696e72
+ButtonTint: #257f17
